@@ -539,11 +539,12 @@ img {
 	font-size: 36px;
 	font-weight: normal;
 	line-height: 36px;
-	margin: 0 auto 87px;
+	margin: 0 0 360ps 360px;
 	padding: 0;
 	text-align: center;
 	text-transform: uppercase;
 	width: 940px;
+	opacity: 0.65;
 }
 #body.about .header div h2 {
 	background-color: #000000;
@@ -558,21 +559,20 @@ img {
 	text-align: center;
 	text-transform: uppercase;
 	width: 820px;
-	opacity: 0.5;
+	opacity: 0.65;
 }
 #body.about .header div h3 {
 	background-color: #000000;
 	color: #FFFFFF;
 	display: block;
-	font-family: audiowide-regular-webfont;
-	font-size: 32px;
+	font-family: Arial;
+	font-size: 18px;
 	font-weight: normal;
-	line-height: 32px;
-	margin: 0 auto 24px;
+	line-height: 24px;
+	margin: 0 auto;
 	padding: 0;
 	text-align: center;
-	text-transform: uppercase;
-	width: 820px;
+	opacity: 0.65;
 }
 #body.about .header div p {
 	color: #ffffff;
