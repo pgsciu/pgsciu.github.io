@@ -558,6 +558,7 @@ img {
 	text-align: center;
 	text-transform: uppercase;
 	width: 820px;
+	opacity: 0.5;
 }
 #body.about .header div h3 {
 	background-color: #000000;
