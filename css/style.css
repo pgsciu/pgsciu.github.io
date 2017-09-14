@@ -634,8 +634,8 @@ img {
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
-	text-align: left;
-	width: 620px;
+	text-align: center;
+	width: 780px;
 }
 #body.about .body div p a {
 	color: #ffffff;
