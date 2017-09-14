@@ -532,6 +532,7 @@ img {
 	padding: 65px 0 40px;
 }
 #body.about .header div h1, #body .header div h1 {
+	background-color: #000000;
 	color: #FFFFFF;
 	display: block;
 	font-family: audiowide-regular-webfont;
@@ -545,6 +546,21 @@ img {
 	width: 940px;
 }
 #body.about .header div h2 {
+	background-color: #000000;
+	color: #FFFFFF;
+	display: block;
+	font-family: audiowide-regular-webfont;
+	font-size: 32px;
+	font-weight: normal;
+	line-height: 32px;
+	margin: 0 auto 24px;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+	width: 820px;
+}
+#body.about .header div h3 {
+	background-color: #000000;
 	color: #FFFFFF;
 	display: block;
 	font-family: audiowide-regular-webfont;
