@@ -652,7 +652,7 @@ img {
 }
 #body.about .body div img {
 	display: block;
-	float: right;
+	float: center;
 	margin: 0;
 	padding: 0;
 	width: auto;
