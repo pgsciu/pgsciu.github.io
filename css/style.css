@@ -610,7 +610,7 @@ img {
 	width: 620px;
 }
 #body.about .body div p {
-	color: #ffffff;
+	color: #000000;
 	display: block;
 	float: left;
 	font-family: Arial;
@@ -715,7 +715,7 @@ img {
 	padding: 58px 0 55px;
 }
 #body.about .section div h2 {
-	color: #A3A3A3;
+	color: #EBEBEB;
 	display: block;
 	font-family: audiowide-regular-webfont;
 	font-size: 23px;
