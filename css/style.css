@@ -693,8 +693,8 @@ img {
 	line-height: 24px;
 	margin: 0 auto;
 	padding: 0;
-	text-align: left;
-	width: 557px;
+	text-align: justify;
+	width: 940px;
 }
 #body.about .footer div p a {
 	color: #ffffff;
